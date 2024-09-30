@@ -103,7 +103,7 @@ if (ID.substring(1) == UID1 && lock == 0 ) {
   lcd.clear();
   lcd.setCursor(0, 0);
   lcd.print("Insufficient");
-                                                     
+                                                       
 lcd.setCursor(0, 1);
     lcd.print("Balance!");
     Serial.print("vechile no: 'TS ZZ ZZ ZZZZ' NOT PASSED!!- NO BALANCE
