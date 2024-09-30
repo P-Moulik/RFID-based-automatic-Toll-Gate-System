@@ -1,4 +1,4 @@
-The Aurdino Code for this project is given below:
+The Aurdino Uno Code for this project is given below:
 
  * https://srituhobby.com
  */ 
