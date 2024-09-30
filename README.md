@@ -20,7 +20,7 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 MFRC522 rfid(SS_PIN, RST_PIN);
 void setup() {
   Serial.begin(9600);
-                                    
+                                     
     servo.write(0);
   pinMode(LED_G, OUTPUT);
   pinMode(LED_R, OUTPUT);
